@@ -1,4 +1,8 @@
 <?php
+//
+// php 5.4 traits may be better for this sort of behaviour!
+//
+
 abstract class mgkbase {
 
 	public $__closures = array();
